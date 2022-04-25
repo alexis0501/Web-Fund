@@ -1,0 +1,37 @@
+.container3{
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: 2px solid black;
+    margin-left: 70%;
+    margin-top: 23.7%;
+}
+
+#blackheader2{
+    color: white;
+    padding-top: 4%;
+    background-color: black;
+    text-align: center;
+    font-size: x-large;
+    height: 45px;
+}
+
+#line3{
+    margin-top: 4%;
+    margin-left: 7%;
+}
+
+.bottombox3{
+    width: 330px;
+    background-color: rgb(172, 172, 172);
+    height: 1px;
+    margin-top: 55px;
+    font-size: large;
+    text-decoration: underline;
+    color:rgb(67, 111, 207);
+    
+}
+
+#picture{
+    height: 35px;
+}

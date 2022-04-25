@@ -1,0 +1,197 @@
+body{
+    font-family:'Roboto', sans-serif;
+    background-color: rgb(194, 194, 194);
+}
+.nav{
+    background-color: rgb(68, 68, 68);
+    color:rgb(255, 255, 255);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 70px;
+}
+
+.navfw{
+    width: 500px;
+    margin-left: 180px;
+    
+}
+
+#navi{
+    font-size: 30px;
+}
+
+
+
+.btn{
+    height: 30px;
+    width: 80px;
+    background-color: #1dbcd8;
+    color: white;
+    box-shadow: 3px 3px black;
+    margin-left: 21.3%;
+
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*profile box*/
+
+
+.profile-box{
+    background-color: rgb(245, 245, 245);
+    border: 2px solid black;
+    width: 450px;
+    border-radius: 2%;
+    margin-top: 3%;
+    margin-left: 13%;
+}
+
+.classbox{
+    background-color: rgb(22, 228, 228);
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.card{
+    padding: 20px;
+}
+
+.card h1, .card h3, .card p { 
+    margin: 5px 0px 20px 0px;
+}
+
+
+.avatar-pfp{
+    background-color: aqua;
+    border-radius: 50%;
+    height: 90px;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.icon{
+    height: 25px;
+}
+
+/*box 2*/
+
+.heading2{
+    color: #8b6011;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.container2{
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    height: 200px;
+    border: 2px solid rgb(121, 121, 121);
+    border-radius: 2%;
+    margin-left: 52%;
+    margin-top: -346px;  
+}
+
+.box2{
+    width: 330px;
+    height: 45px;
+    margin-right: 30%;
+
+}
+
+#blackheader{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 4%;
+}
+
+#icon2{
+    height: 35px;
+}
+
+#line2{
+    margin-top: 24px;
+    margin-left: 55px;
+}
+
+/* box3 */
+
+.container3{
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    width: 330px;
+    border: 2px solid black;
+    margin-top: 12%;
+    border-radius: 2%;
+    
+}
+
+#blackheader2{
+    color: white;
+    padding-top: 4%;
+    background-color: black;
+    text-align: center;
+    font-size: x-large;
+    height: 45px;
+}
+
+#line3{
+    margin-top: 4%;
+    margin-left: 7%;
+}
+
+.bottombox3{
+    width: 330px;
+    background-color: rgb(172, 172, 172);
+    height: 1px;
+    margin-top: 55px;
+    font-size: large;
+    text-decoration: underline;
+    color:rgb(67, 111, 207);
+    
+}
+
+#picture{
+    height: 35px;
+}
+
+/*box4*/
+
+.container4{
+    height: 220px;
+    width: 450px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    margin-top: -215px;
+    margin-left: -545px;
+    border-radius: 2%;
+}
+#blackheader3{
+    background-color: black;
+    color: white;
+    text-align: start;
+    font-size: x-large;
+    padding-top: 4%;
+}
+
+#edutext{
+    margin-left: 15px;
+    padding: 2%;
+    font-size: large;
+}
+
+#CDText{
+    font-size: 20px;
+    padding-top: 2%;
+}
+
+.datetxt{
+    color:grey;
+}

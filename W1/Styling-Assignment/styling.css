@@ -1,0 +1,24 @@
+h1 {
+    color: cyan;
+    background-color: black;
+    font-size: 50px;
+}
+
+h2 {
+    color:white;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+}
+
+h3{
+    background-color: rgba(141, 182, 243, 0.87);
+    text-decoration: underline;
+    text-align: right;
+    font-size: 30px;
+}
+
+span{
+    color: white;
+}

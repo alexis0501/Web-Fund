@@ -1,0 +1,19 @@
+txt
+
+profile background? something like that-
+
+.profile{
+    margin: 0 auto;
+    display: flex;
+    width: 650px;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+<h1 class="nav-title">Profile</h1>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#" class="active">My Profile</a></li>
+                <li><a href="#">Find Connections</a></li>
+                <li><button class="btn">Sign Out</button></li>
+            </ul>

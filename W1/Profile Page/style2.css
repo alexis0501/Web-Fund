@@ -1,0 +1,36 @@
+.container{
+    background-color: rgb(196, 196, 196);
+    width: 235px;
+    height: 200px;
+    border: 2px solid rgb(121, 121, 121);
+    border-radius: 2%;
+    margin-left: 70%;
+    margin-top: 20%;
+}
+
+.box2{
+    width: 235px;
+    height: 45px;
+
+}
+
+#blackheader{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding-top: 4%;
+}
+
+#icon2{
+    height: 35px;
+}
+
+#line2{
+    margin-top: 24px;
+    margin-left: 15px;
+}
+
+
+
+

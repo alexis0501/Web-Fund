@@ -1,0 +1,127 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.nav{
+    background-color: rgb(163, 163, 163);
+    width: 975px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin-left: 15%;
+    margin-top: -8px;
+}
+
+.nav-title{
+    color:rgb(0, 0, 0);
+    margin-left: 40px;
+    font-size: 45px;
+}
+
+.searchbar{
+    margin-right: 14%;
+}
+
+.searchbar input{
+    height: 30px;
+    width: 390px;
+}
+
+
+.btn{
+    height: 28px;
+    background-color: #13d7f5;
+    color: white;
+    box-shadow: 3px 3px black;
+    width: 95px;
+    margin-right: 35px;
+}
+
+/* box 1 up left */
+
+.container4{
+    height: 260px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    margin: 4% 0% 0% 15%;        /* scale 4% to around 30% make the box lower*/
+}
+
+#ntext{
+    color: #000000;
+    font-size: 55px;
+    margin: 3% 0% 0% 4%;
+}
+
+#ntext2{
+    color: rgb(0, 0, 0);
+    margin-left: 9%;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+#ntext3{
+    color: rgb(0, 0, 0);
+    margin-left: 4%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#ntext4{
+    margin-left: 3%;
+    background-color: rgb(194, 184, 41);
+    padding: 2%;
+    width: 110px;
+    box-shadow: 3px 4px;
+}
+
+.mtext{
+    margin-left: 40%;
+    margin-top: -21%;
+    font-size: 22px;
+}
+
+/* box2*/
+
+.container5{
+    margin: 2% 0% 0% 15%;
+    background-color: rgb(255, 255, 255);
+    height: 260px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.mtext2{
+    margin-left: 40%;
+    margin-top: -23%;
+    font-size: 22px;
+}
+
+
+/*box3*/
+
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 200px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 2%;
+    margin-left: 820px;
+    margin-top: -555px;
+}
+
+.Dtext{
+    margin-left: 10%;
+}
+
+#adtext{
+    margin-left: 10%;
+    width: 80%;
+    height: 30%;
+    font-size: 25px;
+
+    background-color: rgb(103, 170, 83);
+    box-shadow: 5px 5px black;
+    
+}
