@@ -1,3 +1,3 @@
 # Web-Fund
 
-Web fundamentals at Coding Dojo Assignments
+Web fundamentals Assignments
